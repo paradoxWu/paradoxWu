@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AI model deployment and chip software development.
 - 🔭 I’m currently working on AI deployment and its software development.
-- 🤔 I’m studying at the Southeast University for my Master degree.  
+- 🤔 I’m studying at the Southeast University for my Master degree.
+-  :factory: I will be working in the autonomous driving industry, working for NIO Next year.
 
 welcome to visit my homepage： http://www.yuanhaowu.xyz/
 
