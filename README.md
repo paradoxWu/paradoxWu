@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🤔 I was studying at the Southeast University and Hefei University of Technology.
 -  :factory: I am working for NIO.
 
-welcome to visit my homepage： http://www.yuanhaowu.xyz/
-
